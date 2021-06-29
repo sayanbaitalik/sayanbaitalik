@@ -1,5 +1,5 @@
 Hi there, This side Vishal Rajput. 👋
-Vishal-raj-1/Vishal-raj-1 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+sayanbaitalik/sayanbaitalik is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
